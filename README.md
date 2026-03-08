@@ -1,6 +1,6 @@
 # Cloudflare Workers Chat Demo
 
-[![[cloudflarebutton]]](https://deploy.workers.cloudflare.com)
+[![[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bilbywilby/verifeye-intelligent-business-entity-research-platform)]](https://deploy.workers.cloudflare.com)
 
 A modern, full-stack chat application built on Cloudflare Workers. This template demonstrates a production-ready setup with a React frontend, Hono-powered API backend, and Durable Objects for scalable, stateful storage. Manage users, create chat boards, and exchange messages in real-time—all serverless.
 
@@ -127,7 +127,7 @@ Or manually:
 
 **Custom Domain**: Update `wrangler.jsonc` and run `wrangler deploy`.
 
-**[cloudflarebutton]**
+**[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bilbywilby/verifeye-intelligent-business-entity-research-platform)**
 
 ### Durable Objects Migration
 First deploy creates SQLite DO migration automatically.
